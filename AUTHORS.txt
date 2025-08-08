@@ -6,6 +6,7 @@
 # Name or Organization <email address>
 
 The STI Pub Companies <stix@aip.org>
+JRG Community <>
 
 # The STI Pub Companies is a consortium consisting of AIP Publishing,
 # American Chemical Society, American Mathematical Society, American
